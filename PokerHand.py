@@ -48,12 +48,14 @@ class PokerHand:
 
     def addCards(self, cards: List[Card]):
         """add a list of cards to the hand"""
+        # more work
         self.cards.extend(cards)
 
     # ------------------------------------------------------------------
 
     def addCard(self, card: Card):
         """add a single card to the hand"""
+        # change this also
         self.cards.append(card)
 
     # ------------------------------------------------------------------
