@@ -9,6 +9,8 @@
 from typing import List
 from CardDeck import Card
 
+# change for part 1
+
 class PokerHand:
 
     # Poker value of hands in increasing order so they can be compared
