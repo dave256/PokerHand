@@ -41,6 +41,7 @@ class PokerHand:
 
     def clear(self):
         """remove all cards from hand"""
+        # finish  part 1
         self.cards = []
 
     # ------------------------------------------------------------------
