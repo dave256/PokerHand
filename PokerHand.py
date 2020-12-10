@@ -35,6 +35,7 @@ class PokerHand:
 
     def __init__(self):
         """initialize empty hand"""
+        # keeping it PG
         self.cards: List[Card] = []
 
     # ------------------------------------------------------------------
