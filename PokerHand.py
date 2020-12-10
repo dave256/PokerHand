@@ -61,6 +61,7 @@ class PokerHand:
 
         :return: two values, the int constant for the hand and the str name of the hand
         """
+        # important bug fix
         pass
 
 # ----------------------------------------------------------------------
